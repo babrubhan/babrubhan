@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babrubhan
 - 👀 I’m interested in developing softwares
-- 🌱 I’m currently learning python, django, flask, REST APIs design
+- 🌱 I’m currently learning REST APIs design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/babrubhan/
 
