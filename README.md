@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babrubhan
-- 👀 I’m interested in developing softwares
-- 🌱 I’m currently learning REST APIs design
+- 👀 I’m interested in developing softwares, learning new edge techologies. 
+- 🌱 I’m currently building an anonymous application 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/babrubhan/
 
